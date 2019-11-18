@@ -1,0 +1,9 @@
+.landing{
+    background-image: url("../images/landing2.gif");
+    background-repeat: no-repeat;
+    position: absolute;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    
+}
