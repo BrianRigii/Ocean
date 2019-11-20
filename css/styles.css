@@ -24,14 +24,17 @@
     font-family: 'Raleway', sans-serif;
 }
 .decor{
-    margin-top: 10vh;
     color: aqua;
     font-family: 'Montserrat', sans-serif;
+    background-color: #F6F6F6;
     
 }
 .decor h1{
-    text-shadow: 4px -5px 5px rgba(57, 139, 139, 0.678);
+    text-shadow: 4px -5px 5px rgba(20, 226, 226, 0.678);
 } 
+.oceantxt{
+    padding-top: 5vh;
+}
     
 
     
